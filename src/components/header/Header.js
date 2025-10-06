@@ -48,7 +48,7 @@ const Header = (props) => {
         <header className="site_header site_header_1">
             <div className="header_top text-center">
                 <div className="container">
-                    <p className="m-0">Your Route to Digital Excellence</p>
+                    <p className="m-0">Internships | Digital Marketing | Website Development | Mobile Apps | Cloud Services</p>
                 </div>
             </div>
             <div className={`header_bottom sticky  ${isSticky ? 'stricked-menu sticky-fixed' : ''}`}>
